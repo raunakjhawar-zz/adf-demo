@@ -1,0 +1,7 @@
+{
+	"name": "SHIR-VM",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "SHIR VM"
+	}
+}
